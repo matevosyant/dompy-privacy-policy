@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Dompy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+        }
+        h1 {
+            color: #444;
+        }
+        h2 {
+            color: #555;
+        }
+        .faq-item {
+            margin-bottom: 20px;
+        }
+        .faq-item h3 {
+            margin-bottom: 5px;
+            color: #222;
+        }
+        .faq-item p {
+            margin: 0;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>If you have any questions, issues, or feedback regarding <strong>Dompy - Unlimited AI Roleplay</strong>, our team is here to help!</p>
+        <p>📧 Email: <a href="mailto:Dompyai@gmail.com">Dompyai@gmail.com</a></p>
+
+        <h2>Frequently Asked Questions (FAQ)</h2>
+
+        <div class="faq-item">
+            <h3>1. What is Dompy - Unlimited AI Roleplay?</h3>
+            <p>Dompy is an AI-powered roleplay app that allows you to chat with unlimited AI characters and create immersive roleplay experiences with advanced artificial intelligence technology.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>2. How does Dompy work?</h3>
+            <p>Our app utilizes sophisticated AI language models to simulate dynamic, realistic conversations. Simply choose or create a character, start chatting, and enjoy an engaging roleplay experience.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>3. What if my chat doesn’t work properly?</h3>
+            <p>If you encounter issues during roleplay, try the following:</p>
+            <ul>
+                <li>Using clearer or simpler prompts.</li>
+                <li>Restarting the app and trying again.</li>
+                <li>Updating the app to the latest version.</li>
+            </ul>
+            <p>If the problem persists, please contact us at <a href="mailto:Dompyai@gmail.com">Dompyai@gmail.com</a>.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>4. Can I use the AI-generated content commercially?</h3>
+            <p>Please refer to our Terms of Service to understand the usage rights of AI-generated content.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+Please refer to our Terms of Service to understand the usage rights of AI-generated images.
